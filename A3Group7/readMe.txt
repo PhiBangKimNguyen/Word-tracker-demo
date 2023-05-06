@@ -1,8 +1,5 @@
 # Word tracker
 
-## Date
-Dec 09, 2022
-
 ## Author
 Phi N
 
