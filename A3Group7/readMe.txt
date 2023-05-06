@@ -1,4 +1,4 @@
-# Assignment 3
+# Word tracker
 
 ## Date
 Dec 09, 2022
